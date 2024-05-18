@@ -7,7 +7,7 @@
         "minPrice": "20",
         "maxPrice": "30",
         "salaryType": "Yearly",
-        "jobLocation": "Brussels",
+        "jobLocation": "Bahia",
         "postingDate": "2024-05-14",
         "experienceLevel": "Any experience",
         "employmentType": "Full-time",
@@ -37,8 +37,8 @@
         "salaryType": "Hourly",
         "jobLocation": "New York City",
         "postingDate": "2024-05-01",
-        "experienceLevel": "Mid-level",
-        "employmentType": "Part-time",
+        "experienceLevel": "Work-remotely",
+        "employmentType": "Full-time",
         "description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
@@ -51,8 +51,8 @@
         "salaryType": "Yearly",
         "jobLocation": "London",
         "postingDate": "2024-05-10",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Part-time",
         "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
@@ -65,8 +65,8 @@
         "salaryType": "Hourly",
         "jobLocation": "Berlin",
         "postingDate": "2024-04-25",
-        "experienceLevel": "Entry-level",
-        "employmentType": "Internship",
+        "experienceLevel": "Any experience",
+        "employmentType": "Temporary",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
@@ -79,8 +79,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Tokyo",
         "postingDate": "2024-05-07",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Part-time",
         "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
         },
         {
@@ -90,11 +90,11 @@
         "companyLogo": "/images/TechNova.png",
         "minPrice": "45",
         "maxPrice": "55",
-        "salaryType": "Yearly",
+        "salaryType": "Monthly",
         "jobLocation": "Washington D.C.",
         "postingDate": "2024-04-29",
-        "experienceLevel": "Mid-level",
-        "employmentType": "Full-time",
+        "experienceLevel": "Work-remotely",
+        "employmentType": "Part-time",
         "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
         },
         {
@@ -107,7 +107,7 @@
         "salaryType": "Hourly",
         "jobLocation": "Toronto",
         "postingDate": "2024-05-02",
-        "experienceLevel": "Entry-level",
+        "experienceLevel": "Any experience",
         "employmentType": "Full-time",
         "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
         },
@@ -121,8 +121,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Seattle",
         "postingDate": "2024-05-09",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Temporary",
         "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
         },
         {
@@ -135,8 +135,8 @@
         "salaryType": "Yearly",
         "jobLocation": "New Delhi",
         "postingDate": "2024-05-13",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Part-time",
         "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur."
         },
         {
@@ -146,10 +146,10 @@
         "companyLogo": "/images/CodeCrafters.png",
         "minPrice": "40",
         "maxPrice": "50",
-        "salaryType": "Yearly",
+        "salaryType": "Monthly",
         "jobLocation": "Boston",
         "postingDate": "2024-05-12",
-        "experienceLevel": "Mid-level",
+        "experienceLevel": "Work-remotely",
         "employmentType": "Full-time",
         "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
         },
@@ -163,8 +163,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Singapore",
         "postingDate": "2024-05-11",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Temporary",
         "description": "Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio."
         },
         {
@@ -177,8 +177,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Sydney",
         "postingDate": "2024-05-08",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Part-time",
         "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."
         },
         {
@@ -188,10 +188,10 @@
         "companyLogo": "/images/TechNova.png",
         "minPrice": "55",
         "maxPrice": "65",
-        "salaryType": "Yearly",
+        "salaryType": "Monthly",
         "jobLocation": "Stockholm",
         "postingDate": "2024-05-06",
-        "experienceLevel": "Mid-level",
+        "experienceLevel": "Work-remotely",
         "employmentType": "Full-time",
         "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae."
         },
@@ -206,8 +206,8 @@
         "salaryType": "Hourly",
         "jobLocation": "Paris",
         "postingDate": "2024-05-05",
-        "experienceLevel": "Mid-level",
-        "employmentType": "Full-time",
+        "experienceLevel": "Work-remotely",
+        "employmentType": "Temporary",
         "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
         },
         {
@@ -220,8 +220,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Rio de Janeiro",
         "postingDate": "2024-05-04",
-        "experienceLevel": "Mid-level",
-        "employmentType": "Full-time",
+        "experienceLevel": "Work-remotely",
+        "employmentType": "Part-time",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
@@ -234,8 +234,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Hong Kong",
         "postingDate": "2024-05-03",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Part-time",
         "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
@@ -248,8 +248,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Chicago",
         "postingDate": "2024-05-02",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Temporary",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
@@ -260,9 +260,9 @@
         "minPrice": "50",
         "maxPrice": "60",
         "salaryType": "Yearly",
-        "jobLocation": "Dubai",
+        "jobLocation": "Bahia",
         "postingDate": "2024-05-01",
-        "experienceLevel": "Mid-level",
+        "experienceLevel": "Work-remotely",
         "employmentType": "Full-time",
         "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
         },
@@ -276,8 +276,8 @@
         "salaryType": "Yearly",
         "jobLocation": "Houston",
         "postingDate": "2024-05-14",
-        "experienceLevel": "Senior",
-        "employmentType": "Full-time",
+        "experienceLevel": "Internship",
+        "employmentType": "Temporary",
         "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
     }
 ]
