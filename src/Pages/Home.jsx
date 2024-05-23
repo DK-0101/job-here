@@ -14,7 +14,9 @@ const Home = () => {
 
   useEffect(() => {
     setIsLoading(true)
-    fetch("jobs.json").then(res => res.json()).then(data => {
+    fetch("http://localhost:5000/all-jobs")
+    .then(res => res.json())
+    .then(data => {
      // console.log(data)
       setJobs(data);
       setIsLoading(false)
@@ -60,16 +62,22 @@ const Home = () => {
     if(query) {
       filteredJobs = filteredItems;
     }
-    if(selected) {
-      filteredJobs = filteredJobs.filter(({jobLocation, maxPrice, experienceLevel, salaryType, employmentType, postingDate}) => 
-        jobLocation.toLowerCase() === selected.toLowerCase() ||
-        parseInt(maxPrice) <= parseInt(selected) ||
-        salaryType.toLowerCase() === selected.toLowerCase() ||
-        experienceLevel.toLowerCase() === selected.toLowerCase() ||
-        employmentType.toLowerCase() === selected.toLowerCase()
-      );
+    if (selected) {
+      filteredJobs = filteredJobs.filter(({ jobLocation, maxPrice, experienceLevel, salaryType, employmentType, postingDate }) => {
+        const selectedLower = selected.toLowerCase();
+    
+        const jobLocationMatch = jobLocation ? jobLocation.toLowerCase() === selectedLower : false;
+        const maxPriceMatch = maxPrice ? parseInt(maxPrice) <= parseInt(selected) : false;
+        const experienceLevelMatch = experienceLevel ? experienceLevel.toLowerCase() === selectedLower : false;
+        const salaryTypeMatch = salaryType ? salaryType.toLowerCase() === selectedLower : false;
+        const employmentTypeMatch = employmentType ? employmentType.toLowerCase() === selectedLower : false;
+    
+        return jobLocationMatch || maxPriceMatch || experienceLevelMatch || salaryTypeMatch || employmentTypeMatch;
+      });
+      
       console.log(filteredJobs);
     }
+    
     const {startIndex, endIndex} = calculatePageRange();
     filteredJobs = filteredJobs.slice(startIndex, endIndex)
     return filteredJobs.map((data, i) => <Card key={i} data={data}/>)
