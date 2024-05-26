@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "title": "Backend Developer",
+        "salary": "Average Salary $34,331 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 2,
+        "title": "Frontend Developer",
+        "salary": "Average Salary $56,700 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 3,
+        "title": "FullSatck Developer",
+        "salary": "Average Salary $45,210 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 4,
+        "title": "Creative Media Labs",
+        "salary": "Average Salary $60,500 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 5,
+        "title": "HealthCare Heroes",
+        "salary": "Average Salary $50,330 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 6,
+        "title": "FinTech Pioneers",
+        "salary": "Average Salary $72,400 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 7,
+        "title": "Eco-Friendly Products",
+        "salary": "Average Salary $48,100 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 8,
+        "title": "Digital Dreams Corp.",
+        "salary": "Average Salary $67,890 per year",
+        "status": "Job Openings",
+        "skills": "Skills"
+    }    
+]
